@@ -57,6 +57,12 @@ body{
     border-radius: 7px 7px 0px 0px;
     text-align: center;
 }
+@media screen and (max-width: 800px){
+    #footer p{
+        font-size: 12px;
+        width: 100%;
+    }
+}
 #contacts{
     margin-bottom: 70px;
 
