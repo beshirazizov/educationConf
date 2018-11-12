@@ -1,0 +1,155 @@
+body{
+    padding-top: 96px;
+}
+.navbar{
+    background-color: #002147;
+}
+.navbar .active{
+    font-weight: bold;
+}
+.navbar .navOuterDiv{
+    flex-direction: row-reverse;
+}
+.navbar .firstnav{
+    padding-right: 12px;
+}
+.navbar .navbar-brand img{
+    background-color: white;
+    border-radius: 100%;
+    padding: 2px;
+}
+.navbar .nav-item a{
+    font-size: 1.2rem;
+}
+.navbar .active a.nav-link{
+    color: #D69D36!important;
+}
+.navbar .nav-item a.dropdown-item{
+    font-size: 1.05rem;
+    padding-left: 0.9rem;
+    padding-right: 0.9rem;
+}
+.heading{
+    margin: 20px 0px 20px;
+    cursor: default;
+}
+.heading p {
+    display: table;
+    text-align: center;
+    margin: auto;
+    background-color: #002147;
+    color: white;
+    padding: 10px 17px;
+    border-radius: 5px;
+    font: normal 600 24px/32px "Arial",Helvetica,Arial,Verdana,sans-serif;
+}
+#footer{
+    cursor: default;
+    position: fixed;
+    bottom: 0px;
+}
+#footer p{
+    color: #D69D36;
+    background-color: #002147;
+    margin: 0px;
+    padding: 5px 20px 5px;
+    display: inline-block;
+    border-radius: 7px 7px 0px 0px;
+    text-align: center;
+}
+#contacts{
+    margin-bottom: 70px;
+
+}
+#contacts .contacttext{
+    text-align: center;
+    margin-bottom: 30px;
+    margin-top: 20px;
+}
+#contacts .contacttext h3 {
+    cursor: default;
+}
+#contacts .contacttext h5{
+    margin:25px 0px 15px;
+    cursor: default;
+
+}
+#contacts .contacttext a{
+    display: block;
+    margin-bottom: 10px;
+    font-size: 20px;
+    color: black;
+}
+#topics{
+    margin-bottom: 50px;
+}
+#topics .topicstext p {
+    display: table;
+    text-align: center;
+    margin: 10px auto 25px;
+    color: #002147;
+    padding: 5px 20px;
+    border-radius: 5px;
+    font: normal 600 24px/32px "Arial",Helvetica,Arial,Verdana,sans-serif;
+    cursor: default;
+}
+#topics .topicstext p:hover{
+    background-color: #002147;
+    color: white;
+    border: none;
+    transition: all linear 0.3s;
+    box-shadow: 0px 0px 25px -5px rgba(0,0,0,0.75);
+}
+#homepage{
+    text-align: center;
+    margin: 0px 0px 60px;
+    color: white;
+}
+#homepage .texts {
+    margin-top: 60px;
+}
+#homepage .texts .plink{
+    margin: 0px;
+    padding: 15px 0px 0px;
+    font-size: 18px;
+    color: white;
+}
+#homepage .texts a{
+    color: white;
+}
+#homepage .texts .logos{
+    text-align: center;
+    padding: 30px 0px 20px;
+    opacity: 0;
+}
+#homepage .texts .logos a{
+    text-decoration: none;
+}
+#organizers {
+    margin: 20px 0px 70px;
+}
+#organizers .orgtext{
+    text-align: center;
+    margin-top: 50px;
+}
+#organizers .orgtext h4{
+    padding-bottom: 5px;
+}
+#organizers .orgtext h4 a{
+    padding-bottom: 15px;
+    color: black;
+}
+#organizers .orgtext h3{
+    padding: 40px 0px 20px;
+    cursor: default;
+}
+#organizers .orgtext p{
+    font-weight: bold;
+    font-size: 18px;
+    cursor: default;
+
+}
+#organizers .orgtext p span{
+    font-weight: normal;
+    font-size: 15px; 
+}
