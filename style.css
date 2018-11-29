@@ -159,3 +159,23 @@ body{
     font-weight: normal;
     font-size: 15px; 
 }
+#prevconfs{
+    text-align: center;
+}
+#prevconfs h3{
+    padding: 30px 0px 10px; 
+}
+#prevconfs hr{
+    margin-bottom: 0px;
+}
+#prevconfs a{
+    margin-bottom: 15px;
+    background-color: #002147;
+    border: none;
+    color: #D69D36;
+    padding: 10px 20px;
+}
+#prevconfs a:hover{
+    color: rgb(255, 188, 64);
+
+}
