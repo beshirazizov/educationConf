@@ -94,7 +94,7 @@ body{
     text-align: center;
     margin: 10px auto 25px;
     color: #002147;
-    padding: 5px 20px;
+    padding: 10px 20px;
     border-radius: 5px;
     font: normal 600 24px/32px "Arial",Helvetica,Arial,Verdana,sans-serif;
     cursor: default;
@@ -145,7 +145,7 @@ body{
     padding-bottom: 15px;
     color: black;
 }
-#organizers .orgtext h3{
+#organizers .orgtext h1{
     padding: 40px 0px 20px;
     cursor: default;
 }
