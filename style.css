@@ -116,7 +116,7 @@ body{
 }
 #homepage .texts .plink{
     margin: 0px;
-    padding: 15px 0px 0px;
+    padding: 15px 0px 15px;
     font-size: 18px;
     color: white;
 }
